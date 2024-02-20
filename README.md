@@ -7,5 +7,5 @@ O que aconteceu com o injector?
 infelizmente o Servidores oficiais da Netflix estão com algum Problema.
 
 Obrigado por entender",
-  "downloadLink": "www.videos.com"
+  "downloadLink": "https://t.me/modder4_apps"
   } 
