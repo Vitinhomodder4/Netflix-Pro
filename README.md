@@ -1,14 +1,11 @@
 {
   "versionCode": 7816,
-  "versionName": "4.6.0 build 7816",
+  "versionName": "4.7.0 modder 7816",
   "Msg": "Nova atualização está disponível, para continuar em nosso aplicativo, atualize-a.
 
-O que há de novo:
-- Melhorias de desempenho.
-- Correções de bugs.
-- Novos recursos introduzidos.
-- Outras pequenas alterações.
+O que aconteceu com o injector?
+infelizmente o Servidores oficiais da Netflix estão com algum Problema.
 
-Obrigado por usar",
+Obrigado por entender",
   "downloadLink": "www.videos.com"
   } 
