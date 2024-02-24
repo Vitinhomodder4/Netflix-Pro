@@ -1,6 +1,6 @@
 {
   "versionCode": 7816,
-  "versionName": "4.6.0 build 7816",
+  "versionName": "4.6.0 boils 7816",
   "Msg": "Nova atualização está disponível, para continuar em nosso aplicativo, atualize-a.
 
 O que aconteceu com o injector?
